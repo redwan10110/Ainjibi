@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Family Law",
+      "price": 490,
+      "img": "https://i.ibb.co/jk2LpCq/service-4.jpg",
+      "description": "When your family faces difficult times or exciting change it is important to contact a family law lawyer. "
+    },
+    {
+      "id": 2,
+      "name": "Criminal Law",
+      "price": 1590,
+      "img": "https://i.ibb.co/SRzpzRs/services-1.png",
+      "description": "At the law offices of Bruno and Ferraro our criminal defense practice is focused on protecting the rights of our clients with strategic, experienced and results-driven advocacy."
+    },
+    {
+      "id": 3,
+      "name": "Financial Law",
+      "price": 2490,
+      "img": "https://i.ibb.co/jb58wMH/service-5.jpg",
+      "description": "High Profile Cases in the Press. A Gallery of cases that we have represented. Our clients come first. From your initial consultation through the final resolution of your case,  "
+    },
+    {
+      "id": 4,
+      "name": "Divorce Law",
+      "price": 5999,
+      "img": "https://i.ibb.co/YbhvTgZ/service-6.jpg",
+      "description": "When your family faces difficult times or exciting change it is important to contact a family law lawyer. "
+    },
+    {
+      "id": 5,
+      "name": "Employment Law",
+      "price": 6535,
+      "img": "https://i.ibb.co/94BZXJR/services-2.png",
+      "description": "Improve himmr believe opinion offered amemet and endmi cheered forbade mrnendly asem des stronge speedily by recurred on interest."
+    },
+    {
+      "id": 6,
+      "name": "Corporate Law",
+      "price": 19999,
+      "img": "https://i.ibb.co/LnBwMyg/services-3.png",
+      "description": "When your Company faces difficult times or exciting change it is important to contact a corporate law lawyer. "
+    }
+  ]

@@ -1,0 +1,13 @@
+.banner-bg {
+    position: relative;
+    width: 100vw;
+    height:100vh;
+    
+}
+.banner-bg img{
+   
+    position: absolute;
+    top: 0;
+    right: 20px;
+    height: 100%;
+}
